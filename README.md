@@ -8,18 +8,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Go to the Welland Canal! It has a beautiful path.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Tasty fruits
 
-- Bulleted
-- List
+- Banana
+- Pineapple
+- Strawberry
 
-1. Numbered
-2. List
+The best Canadian sitcoms
+
+1. Corner Gas
+2. Kim's Convenience
 
 **Bold** and _Italic_ and `Code` text
 
