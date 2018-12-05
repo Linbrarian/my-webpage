@@ -22,6 +22,8 @@ The best Canadian sitcoms
 
 **Bold** and _Italic_ and `Code` text
 
+**this text is bold** _this text is slanty_ **_This text is bold and slanty_**
+
 [Link](url) and ![Image](src)
 ```
 
